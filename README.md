@@ -26,6 +26,6 @@ Je veux obtenir une expertise en cybersécurité tout en m’intéressant à la 
 ## 📧 Contact
 - Email : [contact.hammache.aymen@gmail.com](mailto:contact.hammache.aymen@gmail.com)
   
-Merci de visiter mon profil ! N'hésitez pas à me contacter pour collaborer ou discuter de technologie.
+Merci d'avoir visiter mon profil ! N'hésitez pas à me contacter pour collaborer ou discuter de technologie.
 
 
