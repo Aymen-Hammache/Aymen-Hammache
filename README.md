@@ -8,7 +8,7 @@ J’ai commencé à m’intéresser à l’informatique lors de l’utilisation 
 
 Pour la création digitale, c’était instinctif de concevoir ce que je pense que ce soit le site web ou tout autre projet. 
 
-Post-bac, je veux dans un premier temps accomplir un **BTS CIEL** en alternance pour acquérir une expérience pratique solide en entreprise. 
+Post-bac, je veux dans un premier temps accomplir un **BTS CIEL(Cybersécurité Informatique ELectronique)** en alternance pour acquérir une expérience pratique solide en entreprise. 
 
 Je veux obtenir une expertise en cybersécurité tout en m’intéressant à la création digitale, et bien sûr pourquoi pas prolonger ma passion pour les réseaux.
 
