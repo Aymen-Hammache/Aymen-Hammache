@@ -24,7 +24,7 @@ Je veux obtenir une expertise en cybersécurité tout en m’intéressant à la 
 - ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
 
 ## 📧 Contact
-- Email : [contact.hammache.aymen@gmail.com](mailto:contact.hammache.aymen@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.hammache.aymen@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-hammache-6aa3a32b7)
   
 Merci d'avoir visiter mon profil ! N'hésitez pas à me contacter pour collaborer ou pour obtenir des informations supplémentaires !
