@@ -25,6 +25,7 @@ Je veux obtenir une expertise en cybersécurité tout en m’intéressant à la 
 
 ## 📧 Contact
 - Email : [contact.hammache.aymen@gmail.com](mailto:contact.hammache.aymen@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aymen-hammache-6aa3a32b7)
   
 Merci d'avoir visiter mon profil ! N'hésitez pas à me contacter pour collaborer ou pour obtenir des informations supplémentaires !
 
