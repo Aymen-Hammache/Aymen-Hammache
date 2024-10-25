@@ -4,7 +4,7 @@ Je m’appelle **Aymen**, élève en terminale Bac Pro Systèmes Numériques au 
 
 J’ai commencé à m’intéresser à l’informatique lors de l’utilisation des jeux vidéo, mais le vrai déclencheur demeure mon Bac Pro où j’ai découvert un monde totalement différent, apprendant par exemple le binaire, l’hexadécimal et tous ces éléments qui m’ont conduit à découvrir la passion de la cybercriminalité qui me paraît être un domaine stratégique et technique. 
 
-Post-bac, je veux dans un premier temps accomplir un **BTS CIEL(Cybersécurité Informatique ELectronique)** en alternance pour acquérir une expérience pratique solide en entreprise. 
+Post-bac, je veux accomplir un **BTS CIEL(Cybersécurité Informatique ELectronique)** en alternance pour acquérir une expérience pratique solide en entreprise. 
 
 ## 🚀 Compétences techniques :
 
