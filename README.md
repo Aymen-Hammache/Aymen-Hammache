@@ -20,6 +20,6 @@ Post-bac, je veux accomplir un **BTS SIO (Service informatique aux organisations
 
 ## 📧 Contact
 - [![Email](https://img.shields.io/badge/Email-contactez_moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.hammache.aymen@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-hammache-6aa3a32b7)
+- [![LinkedIn](www.linkedin.com/in/aymen-hammache-172919352)
 
 
